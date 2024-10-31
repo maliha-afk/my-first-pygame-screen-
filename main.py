@@ -15,6 +15,6 @@ while True:
     screen.fill((58,58,58))
     pygame.display.flip()
 
-    pygame.display.get_surface()
+   
 
 
